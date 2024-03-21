@@ -1,2 +1,1 @@
-[InternetShortcut]
-URL=file:///c%3A/Users/julio.marques/Documents/Projetos/meus-projetos/desafio-qa/.gitignore
+.DS_Store\ncypress.env.json\ncypress/downloads/\ncypress/screenshots/\ncypress/videos/\nnode_modules/
